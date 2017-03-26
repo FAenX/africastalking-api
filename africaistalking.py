@@ -1,8 +1,8 @@
 from africastalking import AfricasTalkingGateway as client
-username = "jayz"
-apikey   = "1775011c1f6ad933a2fe8f72e87069becb392da555685f11385f6b57bfee913a"
-to      = "+254712742551"
-message = "we unaonaje"
+username = ""
+apikey   = ""
+to      = ""
+message = "
 #sender = "mimi for mp"
 gateway = client.AfricasTalkingGateway(username, apikey)
 
